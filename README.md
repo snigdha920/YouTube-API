@@ -1,4 +1,6 @@
 # YouTube-API
+API built using Flask and database used is SQLAlchemy
+
 API that can be used to add, delete and update videos and their details.
 
 How to use :

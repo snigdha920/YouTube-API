@@ -1,13 +1,13 @@
 # YouTube-API
 API built using Flask and database used is SQLAlchemy
 
-API that can be used to view, add, delete and update videos and their details.
+# Features
 
-How to use :
+- View all vidoes
 
-1. Install the requirements mentioned in requirements.txt file by running pip install -r requirements.txt
-(care should be taken that the requirements.txt file and the project code is in the same folder)
-2. API endpoint is '/video/<video_id>'
+- Add a video
 
-You can add videos by video_id and store the name, likes and views on the video.
-Updating and deletion of name, likes and views of the video can also be done using the desired video's video id.
+- Delete a video
+
+- Update details of a video
+
